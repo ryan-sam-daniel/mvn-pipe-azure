@@ -27,7 +27,7 @@
         </section>
         <aside>
             <h2>Sidebar</h2>
-            <p>This is a sidebar with additional content.</p>
+            <p>This is a sidebar updated</p>
         </aside>
     </main>
     <footer>
