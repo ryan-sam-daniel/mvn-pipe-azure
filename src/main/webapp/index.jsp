@@ -10,7 +10,7 @@
 
 <body>
     <header>
-        <h1>Welcome to My Maven Web Project</h1>
+        <h1>Welcome to My Maven Web </h1>
         <nav>
             <ul>
                 <li><a href="#">Home</a></li>
