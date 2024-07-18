@@ -23,7 +23,7 @@
     <main>
         <section>
             <h2>Main Section</h2>
-            <p>This is the main content.</p>
+            <p>This is the main </p>
         </section>
         <aside>
             <h2>Sidebar</h2>
